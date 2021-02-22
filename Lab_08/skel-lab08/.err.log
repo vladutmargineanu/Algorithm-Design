@@ -1,0 +1,45 @@
+
+Running cpp/task-1...
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+./check.sh: line 18: 10984 Aborted                 (core dumped) perl -e 'alarm shift; exec @ARGV' "$@"
+========================================
+Running cpp/task-1...
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+./check.sh: line 18: 10989 Aborted                 (core dumped) perl -e 'alarm shift; exec @ARGV' "$@"
+========================================
+Running cpp/task-1...
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+./check.sh: line 18: 10994 Aborted                 (core dumped) perl -e 'alarm shift; exec @ARGV' "$@"
+========================================
+Running cpp/task-1...
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+./check.sh: line 18: 10999 Aborted                 (core dumped) perl -e 'alarm shift; exec @ARGV' "$@"
+========================================
+Running cpp/task-1...
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+./check.sh: line 18: 11004 Aborted                 (core dumped) perl -e 'alarm shift; exec @ARGV' "$@"
+========================================
+Running cpp/task-1...
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+./check.sh: line 18: 11009 Aborted                 (core dumped) perl -e 'alarm shift; exec @ARGV' "$@"
+========================================
+Running cpp/task-1...
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+./check.sh: line 18: 11014 Aborted                 (core dumped) perl -e 'alarm shift; exec @ARGV' "$@"
+========================================
+Running cpp/task-1...
+./check.sh: line 18: 11019 Segmentation fault      (core dumped) perl -e 'alarm shift; exec @ARGV' "$@"
+========================================
+Running cpp/task-1...
+./check.sh: line 18: 11028 Segmentation fault      (core dumped) perl -e 'alarm shift; exec @ARGV' "$@"
+========================================
+Running cpp/task-1...
+./check.sh: line 18: 11039 Segmentation fault      (core dumped) perl -e 'alarm shift; exec @ARGV' "$@"
+========================================
